@@ -1,4 +1,4 @@
-# jjj-first-mj
+# jjj-first-mj 学习记录
 
 我的第一个 GitHub 仓库
 
